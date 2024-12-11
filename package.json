@@ -1,0 +1,33 @@
+{
+  "name": "Proyecto_Brenda_Karol_Ibarra",
+  "version": "1.0.0",
+  "description": "Proyecto en React utilizando Vite, React Router, Context, Reducer y Hooks personalizados.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest --config=./jest.config.js --watchAll"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^29.5.2",
+    "@types/node": "^18.15.0",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "typescript": "^5.0.0",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.3.0"
+  },
+  "keywords": ["react", "vite", "context", "reducer", "hooks", "rickandmortyapi"],
+  "author": "Brenda Karol Ibarra",
+  "license": "MIT"
+}
