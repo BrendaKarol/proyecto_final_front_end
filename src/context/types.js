@@ -1,0 +1,6 @@
+export const types = {
+  ADD_FAVORITE: 'ADD_FAVORITE',
+  REMOVE_FAVORITE: 'REMOVE_FAVORITE',
+  ADD_CART: 'ADD_CART',  
+  REMOVE_CART: 'REMOVE_CART',  
+};
